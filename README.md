@@ -1,6 +1,6 @@
 下面是一些我读过的书。
 
-（注：:+1: 表示推荐，:+1::+1: 表示强烈推荐，:x: 表示差评）
+（注：:+1: 表示推荐，:x: 表示差评）
 
 ## 索引
 
@@ -21,20 +21,20 @@
 
 ## 技术
 
-|书名|评价|阅读时间|
-|---|:-:|:-:|
-|[阿里巴巴Java开发手册（详尽版）](https://book.douban.com/subject/27605355/)|:+1::+1:|2018年12月|
-|[Java 8实战](https://book.douban.com/subject/26772632/)|:+1::+1:|2018年12月|
-|[ECMAScript6入门](https://book.douban.com/subject/25966265/)|:+1::+1:|2018年11月|
-|[CSS揭秘](https://book.douban.com/subject/26745943/)|:+1::+1:|2018年11月|
-|[JavaScript高级程序设计（第3版）](https://book.douban.com/subject/10546125/)|:+1::+1:|2018年10月|
-|[Netty权威指南（第2版）](https://book.douban.com/subject/26663605/)||2018年10月|
-|[Redis开发与运维](https://book.douban.com/subject/26971561/)|:+1::+1:|2018年10月|
-|[图解HTTP](https://book.douban.com/subject/25863515/)|:+1:|2018年9月|
-|[MySQL必知必会](https://book.douban.com/subject/3354490/)|:+1::+1:|2018年9月|
-|[TCP&IP网络编程](https://book.douban.com/subject/25911735/)|:+1:|2018年9月|
-|[深入理解Java虚拟机（第2版） JVM高级特性与最佳实践](https://book.douban.com/subject/24722612/)|:+1::+1:|2018年9月|
-|[实战Java高并发程序设计](https://book.douban.com/subject/26663605/)|:+1::+1:|2018年9月|
-|[剑指Offer：名企面试官精讲典型编程题（第2版）](https://book.douban.com/subject/27008702/)|:+1::+1:|2018年9月|
+|书名|阅读时间|
+|---|:-:|
+|[阿里巴巴Java开发手册（详尽版）](https://book.douban.com/subject/27605355/):+1:|2018年12月|
+|[Java 8实战](https://book.douban.com/subject/26772632/)|2018年12月|
+|[ECMAScript6入门](https://book.douban.com/subject/25966265/):+1:|2018年11月|
+|[CSS揭秘](https://book.douban.com/subject/26745943/)|2018年11月|
+|[JavaScript高级程序设计（第3版）](https://book.douban.com/subject/10546125/):+1:|2018年10月|
+|[Netty权威指南（第2版）](https://book.douban.com/subject/26663605/)|2018年10月|
+|[Redis开发与运维](https://book.douban.com/subject/26971561/)|2018年10月|
+|[图解HTTP](https://book.douban.com/subject/25863515/)|2018年9月|
+|[MySQL必知必会](https://book.douban.com/subject/3354490/)|2018年9月|
+|[TCP&IP网络编程](https://book.douban.com/subject/25911735/)|2018年9月|
+|[深入理解Java虚拟机（第2版） JVM高级特性与最佳实践](https://book.douban.com/subject/24722612/):+1:|2018年9月|
+|[实战Java高并发程序设计](https://book.douban.com/subject/26663605/)|2018年9月|
+|[剑指Offer：名企面试官精讲典型编程题（第2版）](https://book.douban.com/subject/27008702/)|2018年9月|
 
 ## 杂类
