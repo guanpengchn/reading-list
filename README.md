@@ -1,6 +1,6 @@
 下面是一些我读过的书。
 
-（注：:heart: 表示推荐，:x: 表示差评）
+（注：:heart: 表示推荐，:x: 表示差评 :movie_camera: 表示影视）
 
 ## 索引
 
@@ -15,7 +15,7 @@
 
 |书名|阅读时间|
 |---|:-:|
-|[盛夏方程式](https://book.douban.com/subject/30317420/)|2018年12月|
+|[盛夏方程式]:movie_camera:(https://book.douban.com/subject/30317420/)|2018年12月|
 
 ## 传记
 
