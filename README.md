@@ -15,7 +15,7 @@
 
 |书名|阅读时间|
 |---|:-:|
-|[盛夏方程式]:movie_camera:(https://book.douban.com/subject/30317420/)|2018年12月|
+|:movie_camera:[盛夏方程式](https://book.douban.com/subject/30317420/)|2018年12月|
 
 ## 传记
 
