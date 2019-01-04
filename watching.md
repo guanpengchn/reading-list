@@ -14,6 +14,7 @@
 |电影名|观看时间|
 |---|:-:|
 |[盛夏方程式](https://movie.douban.com/subject/19961072/)|2018年12月|
+|[来电狂响](https://movie.douban.com/subject/30377703/)|2019年01月|
 
 ## 电视剧
 
@@ -31,5 +32,6 @@
 
 |综艺名|观看时间|
 |---|:-:|
-|[吐槽大会第一季、第二季、第三季](https://movie.douban.com/subject/26830647/)|2018年11月|
 |[相声有新人](https://movie.douban.com/subject/30297684/)|2018年10月|
+|[吐槽大会第一季、第二季、第三季](https://movie.douban.com/subject/26830647/)|2018年11月|
+
