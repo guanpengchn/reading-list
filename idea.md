@@ -3,3 +3,4 @@
 - VuePress主题开发
 - anime.js结合UML做分部讲解计算机知识动画
 - GitHub report桌面版
+- three.js做物品展示

@@ -15,12 +15,14 @@
 |---|:-:|
 |[盛夏方程式](https://movie.douban.com/subject/19961072/)|2018年12月|
 |[来电狂响](https://movie.douban.com/subject/30377703/)|2019年01月|
+|[白蛇：缘起](https://movie.douban.com/subject/30331149/)|2019年02月|
 
 ## 电视剧
 
 |电视剧名|观看时间|
 |---|:-:|
 |[非自然死亡](https://movie.douban.com/subject/27140017/)|2018年12月|
+|[怒晴湘西](https://movie.douban.com/subject/27202985/)|2019年02月|
 
 ## 动漫
 
