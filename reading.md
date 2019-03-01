@@ -43,5 +43,6 @@
 |:heart:[阿里巴巴Java开发手册（详尽版）](https://book.douban.com/subject/27605355/)|2018年12月|
 |[Spring Cloud微服务实战](https://book.douban.com/subject/27025912/)|2018年12月|
 |[Spring Boot实战](https://book.douban.com/subject/26857423/)|2019年01月|
+|[GitHub入门与实践](https://book.douban.com/subject/26462816/)|2019年03月|
 
 ## 杂类
