@@ -15,7 +15,16 @@
 |---|:-:|
 |[盛夏方程式](https://movie.douban.com/subject/19961072/)|2018年12月|
 |[来电狂响](https://movie.douban.com/subject/30377703/)|2019年01月|
-|[白蛇：缘起](https://movie.douban.com/subject/30331149/)|2019年02月|
+|:heart: [白蛇：缘起](https://movie.douban.com/subject/30331149/)|2019年02月|
+|[铁线虫入侵](https://movie.douban.com/subject/6839145/)|2019年03月|
+|[釜山行](https://movie.douban.com/subject/25986180/)|2019年03月|
+|[熔炉](https://movie.douban.com/subject/5912992/)|2019年03月|
+|[流感](https://movie.douban.com/subject/10432911/)|2019年04月|
+|[后天](https://movie.douban.com/subject/1308779/)|2019年04月|
+|[老师·好](https://movie.douban.com/subject/27663742/)|2019年05月|
+|[调音师](https://movie.douban.com/subject/30334073/)|2019年05月|
+|[流浪地球](https://movie.douban.com/subject/26266893/)|2019年05月|
+|[疯狂的外星人](https://movie.douban.com/subject/25986662/)|2019年05月|
 
 ## 电视剧
 
