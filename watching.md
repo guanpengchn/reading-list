@@ -32,6 +32,7 @@
 |---|:-:|
 |[非自然死亡](https://movie.douban.com/subject/27140017/)|2018年12月|
 |[怒晴湘西](https://movie.douban.com/subject/27202985/)|2019年02月|
+|[长安十二时辰](https://movie.douban.com/subject/26849758/)|2019年07月|
 
 ## 动漫
 

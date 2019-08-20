@@ -7,6 +7,7 @@
 - GitHub report桌面版
 - three.js做物品展示
 - markdown云简历（已做）
+- 中文文案排版指北纠正器（正常版和markdown版），可参考pangu
 
 ## 写书
 
